@@ -16,6 +16,6 @@ tests/coverage_html/
 tests/.coverage
 build/
 tests/report/
-.virtualenvs/*
-./venv/*
-.idea/*
+/.virtualenvs/
+/venv
+/.idea
